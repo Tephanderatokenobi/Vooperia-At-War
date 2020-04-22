@@ -1,0 +1,28 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = corporatism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democracy = 16
+	feudalism = 4
+	corporatism = 65
+	anarchosyndicalism = 0
+	communism = 0
+	authoritarianism = 0
+	ecocommunalism = 15
+}
+create_country_leader = {
+	name = "CEO Starch"
+	desc = "POTATO_BUSINESS_DESC"
+	picture = "Portrait_Potato_Business.dds"
+	expire = "1965.1.1"
+	ideology = capitalist
+	traits = {
+		#
+	}
+}

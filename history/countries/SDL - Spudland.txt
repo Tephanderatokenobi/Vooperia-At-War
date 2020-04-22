@@ -1,0 +1,28 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = ecocommunalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democracy = 6
+	feudalism = 0
+	corporatism = 4
+	anarchosyndicalism = 0
+	communism = 0
+	authoritarianism = 0
+	ecocommunalism = 90
+}
+create_country_leader = {
+	name = "Mr.Spud"
+	desc = "POTATO_FARMER_DESC"
+	picture = "Portrait_Potato_Farmer.dds"
+	expire = "1965.1.1"
+	ideology = potatoism
+	traits = {
+		#
+	}
+}
