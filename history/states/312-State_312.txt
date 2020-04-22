@@ -1,0 +1,13 @@
+state={
+	id=312
+	name="STATE_312"
+	provinces={
+		977 1696 1736 1937 3050 3108 3233 3384 3702 4032 4142 6481 6541 6548 6583 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = FLD
+}
+
+}

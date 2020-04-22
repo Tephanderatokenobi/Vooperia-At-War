@@ -1,0 +1,13 @@
+state={
+	id=359
+	name="STATE_359"
+	provinces={
+		158 264 2066 2290 2822 2890 3058 3216 3650 3852 4770 4822 6588 6620 6644 6681 6700 6722 6727 6740 6831 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = STR
+}
+
+}

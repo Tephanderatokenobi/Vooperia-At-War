@@ -1,0 +1,13 @@
+state={
+	id=363
+	name="STATE_363"
+	provinces={
+		656 1564 1821 1927 2270 3569 3953 4184 6684 6804 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YAM
+}
+
+}

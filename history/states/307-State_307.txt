@@ -1,0 +1,13 @@
+state={
+	id=307
+	name="STATE_307"
+	provinces={
+		1020 1203 1375 1986 3448 4191 4493 4763 6351 6460 6471 6512 6553 6558 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NVP
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=351
+	name="STATE_351"
+	provinces={
+		161 272 1073 1132 2297 2421 3617 4841 6572 6639 6643 6660 6698 6745 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = RIC
+}
+
+}

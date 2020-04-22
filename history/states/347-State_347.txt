@@ -1,0 +1,13 @@
+state={
+	id=347
+	name="STATE_347"
+	provinces={
+		2111 2939 3066 3099 4459 4899 6605 6614 6631 6662 6676 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = DAR
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=321
+	name="STATE_321"
+	provinces={
+		725 970 1265 1805 1890 2811 3226 3833 4252 4847 6446 6466 6513 6551 6579 6598 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = STR
+}
+
+}

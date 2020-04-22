@@ -1,0 +1,13 @@
+state={
+	id=383
+	name="STATE_383"
+	provinces={
+		1013 1304 2042 2131 2302 2408 2448 3708 3816 4571 6710 6763 6820 6858 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = LIV
+}
+
+}

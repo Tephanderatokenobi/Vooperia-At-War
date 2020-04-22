@@ -1,0 +1,13 @@
+state={
+	id=335
+	name="STATE_335"
+	provinces={
+		708 746 1638 2169 2192 2499 2872 3449 3490 3633 3882 4416 6539 6569 6634 6650 6678 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = ZAR
+}
+
+}

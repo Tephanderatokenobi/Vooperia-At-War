@@ -1,0 +1,13 @@
+state={
+	id=388
+	name="STATE_388"
+	provinces={
+		488 621 3234 6816 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = DAR
+}
+
+}

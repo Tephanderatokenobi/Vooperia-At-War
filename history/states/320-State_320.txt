@@ -1,0 +1,13 @@
+state={
+	id=320
+	name="STATE_320"
+	provinces={
+		60 646 1367 1507 2837 2852 3042 3476 4250 4769 6405 6497 6502 6533 6534 6564 6602 6615 6629 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = ZAR
+}
+
+}

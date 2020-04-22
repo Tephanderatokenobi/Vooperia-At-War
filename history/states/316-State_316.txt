@@ -1,0 +1,13 @@
+state={
+	id=316
+	name="STATE_316"
+	provinces={
+		578 585 770 931 1214 1603 2123 2425 3402 4114 4324 4435 6406 6424 6425 6467 6490 6491 6542 6581 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YAM
+}
+
+}

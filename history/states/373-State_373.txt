@@ -1,0 +1,13 @@
+state={
+	id=373
+	name="STATE_373"
+	provinces={
+		1116 1531 2294 2320 2330 2677 2912 3335 3874 4720 4911 6788 6845 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SCP
+}
+
+}

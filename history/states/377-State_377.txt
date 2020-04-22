@@ -1,0 +1,13 @@
+state={
+	id=377
+	name="STATE_377"
+	provinces={
+		773 777 1041 1338 1768 1879 2236 4309 4454 6685 6812 6848 6888 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = ZAR
+}
+
+}

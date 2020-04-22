@@ -1,0 +1,13 @@
+state={
+	id=328
+	name="STATE_328"
+	provinces={
+		205 208 1712 2063 2241 2625 2959 3018 3313 3434 3943 4527 6504 6529 6624 6632 6664 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SLA
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=362
+	name="STATE_362"
+	provinces={
+		103 1386 1539 1653 1727 1930 2411 4424 4655 6697 6712 6729 6747 6787 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = CRG
+}
+
+}

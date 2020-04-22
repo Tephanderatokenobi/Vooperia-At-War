@@ -1,0 +1,13 @@
+state={
+	id=384
+	name="STATE_384"
+	provinces={
+		96 184 211 971 1019 1141 1994 2371 2873 4802 6758 6759 6835 6837 6846 6850 6871 6911 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = OHA
+}
+
+}

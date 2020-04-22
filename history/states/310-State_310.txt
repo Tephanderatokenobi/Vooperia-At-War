@@ -1,0 +1,13 @@
+state={
+	id=310
+	name="STATE_310"
+	provinces={
+		34 1044 1169 1931 2445 2488 2844 2940 3512 4831 6390 6444 6452 6535 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SPL
+}
+
+}

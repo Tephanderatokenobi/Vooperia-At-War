@@ -1,0 +1,13 @@
+state={
+	id=322
+	name="STATE_322"
+	provinces={
+		64 807 1395 1565 1631 1960 2334 3282 3306 3381 4866 6550 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = RIC
+}
+
+}

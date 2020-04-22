@@ -1,0 +1,13 @@
+state={
+	id=370
+	name="STATE_370"
+	provinces={
+		95 698 2170 2287 2618 3024 3317 3797 3986 4042 6741 6761 6777 6791 6822 6840 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SDL
+}
+
+}

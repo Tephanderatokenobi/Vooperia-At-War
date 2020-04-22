@@ -1,0 +1,13 @@
+state={
+	id=353
+	name="STATE_353"
+	provinces={
+		76 1643 1754 2240 2996 3085 3196 3253 4528 6642 6654 6742 6757 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = OHA
+}
+
+}
