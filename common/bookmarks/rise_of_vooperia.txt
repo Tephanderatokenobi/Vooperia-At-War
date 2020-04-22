@@ -1,0 +1,75 @@
+bookmarks = {
+	bookmark = {
+		name = "RISE_OF_VOOPERIA_NAME"
+		desc = "RISE_OF_VOOPERIA_BOOKMARK_LOC"
+		date = 2076.1.1.12
+		picture = "GFX_select_date_2076"
+		default_country = "VOP"
+		default = yes
+		
+		"VOP"={
+			history = "VOP_ROV_DESC"
+			ideology = democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"YAM"={
+			history = "YAM_ROV_DESC"
+			ideology = authoritarianism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"KOM"={
+			history = "KOM_ROV_DESC"
+			ideology = feudalism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"NTH"={
+			history = "NTH_ROV_DESC"
+			ideology = democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"DAR"={
+			history = "DAR_ROV_DESC"
+			ideology = anarchosyndicalism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"SCP"={
+			history = "SCP_ROV_DESC"
+			ideology = corporatism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"SDL"={
+			history = "SDL_ROV_DESC"
+			ideology = ecocommunalism
+			ideas = {
+			}	
+			focuses = {
+			}			
+		}
+		"---"={
+			history = "OTHER_VOOPERIA_DESC"
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
