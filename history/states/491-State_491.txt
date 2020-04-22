@@ -1,0 +1,13 @@
+state={
+	id=491
+	name="STATE_491"
+	provinces={
+		623 1312 2076 2679 2719 3484 3604 5083 7278 7294 7321 7323 7353 7369 7404 7443 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SOR
+}
+
+}

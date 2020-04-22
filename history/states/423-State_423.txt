@@ -1,0 +1,13 @@
+state={
+	id=423
+	name="STATE_423"
+	provinces={
+		189 790 1435 1682 1831 1908 2655 3265 4268 4798 6951 6977 7033 7073 7077 7130 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SDL
+}
+
+}

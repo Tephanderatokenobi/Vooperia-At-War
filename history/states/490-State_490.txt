@@ -1,0 +1,13 @@
+state={
+	id=490
+	name="STATE_490"
+	provinces={
+		183 1079 2021 2466 2724 3741 4071 4659 7271 7310 7335 7392 7400 7410 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SDL
+}
+
+}

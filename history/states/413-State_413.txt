@@ -1,0 +1,13 @@
+state={
+	id=413
+	name="STATE_413"
+	provinces={
+		436 453 943 1168 1729 2120 3143 4635 5066 6928 6938 6962 6988 6999 7020 7069 7125 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = BRK
+}
+
+}

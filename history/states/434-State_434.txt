@@ -1,0 +1,13 @@
+state={
+	id=434
+	name="STATE_434"
+	provinces={
+		19 546 613 785 885 1958 2163 2745 3329 3470 4141 4180 4392 4566 6948 6993 7025 7032 7057 7083 7106 7117 7149 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YMR
+}
+
+}

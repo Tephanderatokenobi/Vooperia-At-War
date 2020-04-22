@@ -1,0 +1,13 @@
+state={
+	id=405
+	name="STATE_405"
+	provinces={
+		252 1541 3284 3525 4805 6786 6826 6864 6923 6939 6955 6972 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YMR
+}
+
+}

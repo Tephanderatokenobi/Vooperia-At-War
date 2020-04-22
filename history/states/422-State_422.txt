@@ -1,0 +1,13 @@
+state={
+	id=422
+	name="STATE_422"
+	provinces={
+		80 90 663 767 868 2277 2772 2888 2963 3035 3314 4307 6961 7000 7015 7197 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = OHA
+}
+
+}

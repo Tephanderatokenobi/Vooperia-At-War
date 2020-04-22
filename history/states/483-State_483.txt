@@ -1,0 +1,13 @@
+state={
+	id=483
+	name="STATE_483"
+	provinces={
+		266 274 438 517 1191 1536 1725 1971 2547 4163 7226 7263 7264 7308 7337 7359 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = KKD
+}
+
+}

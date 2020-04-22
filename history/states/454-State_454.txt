@@ -1,0 +1,13 @@
+state={
+	id=454
+	name="STATE_454"
+	provinces={
+		1580 2728 3060 3477 4331 4401 7233 7248 7282 7320 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = POP
+}
+
+}

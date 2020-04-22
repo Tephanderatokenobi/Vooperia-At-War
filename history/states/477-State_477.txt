@@ -1,0 +1,13 @@
+state={
+	id=477
+	name="STATE_477"
+	provinces={
+		522 1054 1345 1556 2830 3485 3739 3847 4030 4793 5015 5031 7170 7185 7231 7344 7348 7352 7366 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NPR
+}
+
+}

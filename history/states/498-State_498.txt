@@ -1,0 +1,13 @@
+state={
+	id=498
+	name="STATE_498"
+	provinces={
+		679 816 1051 1420 1676 2328 3740 4646 5030 7302 7351 7356 7422 7438 7468 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = POP
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=411
+	name="STATE_411"
+	provinces={
+		41 335 642 753 2433 3177 6899 6909 6915 6933 6942 6969 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = LIV
+}
+
+}

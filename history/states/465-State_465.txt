@@ -1,0 +1,13 @@
+state={
+	id=465
+	name="STATE_465"
+	provinces={
+		105 676 1298 2344 2464 3272 3695 4004 4053 4183 4587 4612 4861 7112 7140 7204 7205 7225 7252 7279 7322 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NTH
+}
+
+}

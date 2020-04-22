@@ -1,0 +1,13 @@
+state={
+	id=479
+	name="STATE_479"
+	provinces={
+		107 464 723 803 867 1732 7188 7285 7311 7314 7331 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NTH
+}
+
+}

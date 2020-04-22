@@ -1,0 +1,13 @@
+state={
+	id=404
+	name="STATE_404"
+	provinces={
+		1443 2871 2955 3491 3613 6913 6922 6958 6971 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = CNK
+}
+
+}

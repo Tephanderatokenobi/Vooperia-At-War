@@ -1,0 +1,13 @@
+state={
+	id=415
+	name="STATE_415"
+	provinces={
+		829 1315 1910 2541 3029 3244 3325 4757 4845 6884 7029 7070 7079 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YMR
+}
+
+}

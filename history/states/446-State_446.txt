@@ -1,0 +1,13 @@
+state={
+	id=446
+	name="STATE_446"
+	provinces={
+		324 891 898 941 1004 1176 1454 2015 2030 2292 3588 7076 7095 7110 7183 7195 7221 7230 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = OOF
+}
+
+}

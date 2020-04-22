@@ -1,0 +1,13 @@
+state={
+	id=452
+	name="STATE_452"
+	provinces={
+		675 1438 1622 1933 2420 3602 3858 3985 4039 4477 4666 7128 7129 7160 7165 7193 7241 7312 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SOR
+}
+
+}

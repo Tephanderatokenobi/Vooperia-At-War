@@ -1,0 +1,13 @@
+state={
+	id=419
+	name="STATE_419"
+	provinces={
+		13 93 495 819 927 955 2217 2622 3520 3625 3832 3936 6935 6965 6979 7012 7038 7049 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = CRG
+}
+
+}

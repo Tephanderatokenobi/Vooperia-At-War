@@ -1,0 +1,13 @@
+state={
+	id=495
+	name="STATE_495"
+	provinces={
+		466 848 956 1934 2207 2262 2494 2537 4172 4394 4862 7296 7346 7371 7388 7395 7418 7436 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NTH
+}
+
+}

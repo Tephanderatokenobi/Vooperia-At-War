@@ -1,0 +1,13 @@
+state={
+	id=494
+	name="STATE_494"
+	provinces={
+		635 933 3127 3230 3248 3259 3735 3825 4214 4482 4529 4965 7307 7341 7379 7405 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NTH
+}
+
+}

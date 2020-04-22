@@ -1,0 +1,13 @@
+state={
+	id=408
+	name="STATE_408"
+	provinces={
+		33 2090 2213 2662 4385 6924 6929 6934 6950 6975 6996 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NPR
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=499
+	name="STATE_499"
+	provinces={
+		764 914 2381 2935 2992 3205 3212 3709 4055 4461 4844 5004 7377 7393 7412 7441 7456 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = PUG
+}
+
+}
