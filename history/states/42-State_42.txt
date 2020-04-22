@@ -1,0 +1,13 @@
+state={
+	id=42
+	name="STATE_42"
+	provinces={
+		88 1532 2518 4791 5167 5170 5178 5187 5279 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = BYS
+}
+
+}

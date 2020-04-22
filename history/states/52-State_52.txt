@@ -1,0 +1,13 @@
+state={
+	id=52
+	name="STATE_52"
+	provinces={
+		159 881 1318 1389 1544 2583 3113 3215 3653 5061 5183 5192 5217 5220 5235 5269 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NEK
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=73
+	name="STATE_73"
+	provinces={
+		974 2418 2801 3462 3713 4672 4721 5314 5342 5345 5349 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = BYS
+}
+
+}

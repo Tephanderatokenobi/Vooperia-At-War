@@ -1,0 +1,13 @@
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		2065 2096 4236 5184 5213 5243 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VOP
+}
+
+}

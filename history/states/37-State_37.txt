@@ -1,0 +1,13 @@
+state={
+	id=37
+	name="STATE_37"
+	provinces={
+		38 1870 2274 3214 3757 4465 5145 5151 5156 5160 5175 5180 5191 5197 5207 5218 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = BYS
+}
+
+}

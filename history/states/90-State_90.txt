@@ -1,0 +1,13 @@
+state={
+	id=90
+	name="STATE_90"
+	provinces={
+		6 394 1758 3389 3772 4011 4300 5369 5385 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SHB
+}
+
+}

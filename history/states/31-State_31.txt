@@ -1,0 +1,13 @@
+state={
+	id=31
+	name="STATE_31"
+	provinces={
+		21 142 282 1129 1878 2605 3395 3500 3611 3722 3917 4614 4650 4801 4909 5012 5124 5144 5149 5154 5159 5176 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NEK
+}
+
+}

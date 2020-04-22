@@ -1,0 +1,13 @@
+state={
+	id=65
+	name="STATE_65"
+	provinces={
+		730 1456 1517 2354 2382 2918 3065 3193 3684 4415 5079 5264 5304 5322 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VOP
+}
+
+}

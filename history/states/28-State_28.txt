@@ -1,0 +1,13 @@
+state={
+	id=28
+	name="STATE_28"
+	provinces={
+		200 1990 2696 4257 5137 5150 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NEK
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=64
+	name="STATE_64"
+	provinces={
+		221 383 611 801 1327 1563 2112 2279 3043 4690 4896 5247 5284 5292 5293 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VOP
+}
+
+}

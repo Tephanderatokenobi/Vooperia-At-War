@@ -1,0 +1,13 @@
+state={
+	id=27
+	name="STATE_27"
+	provinces={
+		218 750 1125 3293 4732 5130 5135 5139 5141 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = ALT
+}
+
+}

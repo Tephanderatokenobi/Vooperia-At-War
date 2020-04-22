@@ -1,0 +1,13 @@
+state={
+	id=46
+	name="STATE_46"
+	provinces={
+		1652 1791 4558 4578 5188 5204 5223 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = ALT
+}
+
+}

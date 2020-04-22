@@ -1,0 +1,13 @@
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		388 736 1476 4399 4701 5179 5202 5211 5227 5238 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SHB
+}
+
+}

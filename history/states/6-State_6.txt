@@ -1,0 +1,13 @@
+state={
+	id=6
+	name="STATE_6"
+	provinces={
+		687 2183 2312 2925 3036 4496 5034 7475 7487 7530 7559 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = DAR
+}
+
+}

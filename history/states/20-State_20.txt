@@ -1,0 +1,13 @@
+state={
+	id=20
+	name="STATE_20"
+	provinces={
+		1648 2035 4637 5033 5107 5109 5117 5118 5127 5133 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = ALT
+}
+
+}
