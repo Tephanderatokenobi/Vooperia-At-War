@@ -1,0 +1,13 @@
+state={
+	id=163
+	name="STATE_163"
+	provinces={
+		780 1195 1233 1428 1913 2686 2706 4676 5673 5715 5753 5779 5783 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SLA
+}
+
+}

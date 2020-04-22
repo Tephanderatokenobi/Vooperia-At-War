@@ -1,0 +1,13 @@
+state={
+	id=104
+	name="STATE_104"
+	provinces={
+		1032 1082 1154 1410 1436 2661 2722 2983 3667 5073 5412 5434 5460 5467 5469 5500 5519 5526 5547 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = AVA
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=175
+	name="STATE_175"
+	provinces={
+		17 112 150 461 888 1542 2461 2577 2778 3541 4630 4768 4901 5739 5841 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VOP
+}
+
+}

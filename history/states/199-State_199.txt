@@ -1,0 +1,13 @@
+state={
+	id=199
+	name="STATE_199"
+	provinces={
+		485 768 779 895 960 1231 1278 2162 2827 4839 5940 5948 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YES
+}
+
+}

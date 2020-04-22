@@ -1,0 +1,13 @@
+state={
+	id=137
+	name="STATE_137"
+	provinces={
+		352 2309 2654 2855 3343 4352 4390 5613 5629 5634 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = AVA
+}
+
+}

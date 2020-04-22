@@ -1,0 +1,13 @@
+state={
+	id=195
+	name="STATE_195"
+	provinces={
+		1017 1499 1632 2205 2615 3110 3729 3841 4542 4617 5830 5856 5859 5880 5894 5915 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VAS
+}
+
+}

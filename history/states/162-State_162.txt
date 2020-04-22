@@ -1,0 +1,13 @@
+state={
+	id=162
+	name="STATE_162"
+	provinces={
+		664 2643 2911 3307 3586 3805 3912 4186 5704 5748 5767 5782 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = BOM
+}
+
+}

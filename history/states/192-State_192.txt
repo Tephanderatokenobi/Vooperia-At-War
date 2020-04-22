@@ -1,0 +1,13 @@
+state={
+	id=192
+	name="STATE_192"
+	provinces={
+		1091 1669 1689 2188 2626 3004 3038 3949 4044 4326 4411 5855 5871 5873 5903 5917 5945 5983 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = WNC
+}
+
+}

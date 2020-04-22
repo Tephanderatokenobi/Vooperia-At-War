@@ -1,0 +1,13 @@
+state={
+	id=177
+	name="STATE_177"
+	provinces={
+		849 2620 2783 3562 3628 4009 5742 5802 5818 5862 5879 5900 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VPR
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=147
+	name="STATE_147"
+	provinces={
+		982 2317 3620 3636 4069 4433 4734 5662 5698 5725 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = TEM
+}
+
+}

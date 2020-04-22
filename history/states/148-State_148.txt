@@ -1,0 +1,13 @@
+state={
+	id=148
+	name="STATE_148"
+	provinces={
+		418 924 2403 2424 2845 3033 3106 3576 3584 4727 5646 5655 5658 5678 5686 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = BOM
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=158
+	name="STATE_158"
+	provinces={
+		1072 1210 2018 2033 2153 2223 2451 2950 3759 3892 4033 4764 5701 5766 5771 5791 5798 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VPR
+}
+
+}

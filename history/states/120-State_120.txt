@@ -1,0 +1,13 @@
+state={
+	id=120
+	name="STATE_120"
+	provinces={
+		119 880 1376 1858 2073 2299 2884 3649 3790 4595 5010 5552 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = BOM
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=200
+	name="STATE_200"
+	provinces={
+		99 294 298 364 478 727 2026 3522 4155 4274 4332 4656 5893 5906 5920 5933 5957 5966 6004 6012 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VME
+}
+
+}

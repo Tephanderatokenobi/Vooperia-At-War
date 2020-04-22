@@ -1,0 +1,13 @@
+state={
+	id=190
+	name="STATE_190"
+	provinces={
+		210 1157 2674 3669 3721 4084 4253 4362 4363 4890 5816 5881 5918 5930 5959 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YES
+}
+
+}

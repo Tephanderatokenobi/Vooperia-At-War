@@ -1,0 +1,13 @@
+state={
+	id=144
+	name="STATE_144"
+	provinces={
+		58 400 1362 2159 4766 4954 4975 5576 5627 5656 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VPR
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=102
+	name="STATE_102"
+	provinces={
+		214 498 737 756 850 1173 1411 1921 3454 3516 4535 4919 4959 5433 5435 5462 5505 5516 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = BOM
+}
+
+}

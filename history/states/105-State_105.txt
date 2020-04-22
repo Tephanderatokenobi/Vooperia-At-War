@@ -1,0 +1,13 @@
+state={
+	id=105
+	name="STATE_105"
+	provinces={
+		246 568 762 3535 3557 3860 5468 5479 5498 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VAL
+}
+
+}

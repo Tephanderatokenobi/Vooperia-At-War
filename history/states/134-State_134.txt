@@ -1,0 +1,13 @@
+state={
+	id=134
+	name="STATE_134"
+	provinces={
+		1175 1184 1373 1388 3309 3780 4248 5009 5606 5623 5628 5643 5653 5680 5688 5693 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = AES
+}
+
+}

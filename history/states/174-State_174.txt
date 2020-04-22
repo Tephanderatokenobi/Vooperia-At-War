@@ -1,0 +1,13 @@
+state={
+	id=174
+	name="STATE_174"
+	provinces={
+		369 689 854 1028 1119 1284 4403 4784 4897 5706 5713 5731 5744 5810 5826 5858 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = AES
+}
+
+}

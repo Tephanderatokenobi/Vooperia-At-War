@@ -1,0 +1,13 @@
+state={
+	id=106
+	name="STATE_106"
+	provinces={
+		672 1165 1673 1786 1969 2500 2683 3380 4006 4458 4853 5397 5418 5432 5465 5478 5529 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VOP
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=139
+	name="STATE_139"
+	provinces={
+		445 572 945 988 1554 1926 2215 2928 3032 3059 3405 3900 4013 4161 4296 4467 4564 5597 5635 5694 5703 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VOP
+}
+
+}

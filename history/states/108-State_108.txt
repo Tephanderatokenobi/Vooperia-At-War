@@ -1,0 +1,13 @@
+state={
+	id=108
+	name="STATE_108"
+	provinces={
+		197 669 1680 1830 3327 3413 3775 3777 3994 4068 4450 5413 5455 5461 5488 5494 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = ALE
+}
+
+}

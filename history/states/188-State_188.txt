@@ -1,0 +1,13 @@
+state={
+	id=188
+	name="STATE_188"
+	provinces={
+		477 1106 1329 1966 2011 2232 3443 4351 5007 5847 5857 5909 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YES
+}
+
+}

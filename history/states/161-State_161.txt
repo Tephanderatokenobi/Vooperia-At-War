@@ -1,0 +1,13 @@
+state={
+	id=161
+	name="STATE_161"
+	provinces={
+		441 475 792 2447 3513 3763 3827 5705 5736 5737 5770 5794 5842 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = BOM
+}
+
+}

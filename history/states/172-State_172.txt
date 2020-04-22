@@ -1,0 +1,13 @@
+state={
+	id=172
+	name="STATE_172"
+	provinces={
+		292 1513 1702 2147 2161 2239 3426 3509 3880 4150 4444 5759 5785 5819 5836 5840 5884 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VAS
+}
+
+}
