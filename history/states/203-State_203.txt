@@ -1,0 +1,13 @@
+state={
+	id=203
+	name="STATE_203"
+	provinces={
+		116 134 811 952 1243 1695 5874 5924 5925 5956 5992 5996 6070 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = DAR
+}
+
+}

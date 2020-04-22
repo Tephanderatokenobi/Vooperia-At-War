@@ -1,0 +1,13 @@
+state={
+	id=297
+	name="STATE_297"
+	provinces={
+		251 631 774 1022 1667 1697 3657 3901 4695 4786 6328 6380 6389 6417 6472 6487 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VOI
+}
+
+}

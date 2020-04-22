@@ -1,0 +1,13 @@
+state={
+	id=299
+	name="STATE_299"
+	provinces={
+		149 1172 1202 1266 1459 1550 1771 2750 3526 3565 3932 4347 4514 6342 6404 6486 6524 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VOI
+}
+
+}

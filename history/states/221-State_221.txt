@@ -1,0 +1,13 @@
+state={
+	id=221
+	name="STATE_221"
+	provinces={
+		268 557 3011 3433 3751 4204 4440 4869 4947 6010 6013 6076 6097 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = TEM
+}
+
+}

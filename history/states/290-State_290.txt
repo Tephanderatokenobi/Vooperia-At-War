@@ -1,0 +1,13 @@
+state={
+	id=290
+	name="STATE_290"
+	provinces={
+		307 615 2342 3222 6227 6279 6304 6305 6335 6371 6376 6395 6421 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = RIC
+}
+
+}

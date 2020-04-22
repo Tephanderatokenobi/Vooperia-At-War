@@ -1,0 +1,13 @@
+state={
+	id=210
+	name="STATE_210"
+	provinces={
+		154 177 232 805 2040 2198 2843 2923 3286 3287 4928 5896 5922 5927 5944 5962 5972 5995 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YAM
+}
+
+}

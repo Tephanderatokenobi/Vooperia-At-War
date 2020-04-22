@@ -1,0 +1,13 @@
+state={
+	id=288
+	name="STATE_288"
+	provinces={
+		448 691 1135 1145 1586 2061 2483 3140 3170 3200 4281 6219 6246 6276 6372 6384 6433 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = FLD
+}
+
+}

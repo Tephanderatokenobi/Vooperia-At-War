@@ -1,0 +1,13 @@
+state={
+	id=250
+	name="STATE_250"
+	provinces={
+		62 68 402 1382 1798 2648 3001 3056 3826 5002 5063 6193 6233 6266 6313 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = GRK
+}
+
+}

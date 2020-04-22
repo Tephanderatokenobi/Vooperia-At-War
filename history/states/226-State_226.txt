@@ -1,0 +1,13 @@
+state={
+	id=226
+	name="STATE_226"
+	provinces={
+		360 505 1139 1407 2549 3241 3332 4369 6002 6021 6046 6055 6114 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VAS
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=238
+	name="STATE_238"
+	provinces={
+		1810 1815 2607 3582 4464 6128 6176 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NVP
+}
+
+}

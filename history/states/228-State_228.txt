@@ -1,0 +1,13 @@
+state={
+	id=228
+	name="STATE_228"
+	provinces={
+		185 433 1383 2345 2612 2632 2833 3128 3152 4203 4894 5951 6023 6028 6052 6092 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SLA
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=236
+	name="STATE_236"
+	provinces={
+		1269 1728 2044 2471 2550 2578 3661 3963 4286 4905 6003 6005 6036 6047 6111 6152 6189 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SPL
+}
+
+}

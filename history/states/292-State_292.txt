@@ -1,0 +1,13 @@
+state={
+	id=292
+	name="STATE_292"
+	provinces={
+		291 490 835 2078 2324 2368 2397 2501 3755 4412 4778 6274 6359 6381 6423 6439 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SPL
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=252
+	name="STATE_252"
+	provinces={
+		680 1333 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NVP
+}
+
+}

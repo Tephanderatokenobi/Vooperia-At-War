@@ -1,0 +1,13 @@
+state={
+	id=204
+	name="STATE_204"
+	provinces={
+		520 632 1124 1574 1965 2555 3178 3615 3996 4086 4146 4413 5017 5885 5908 5916 5982 5986 6030 6064 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SPL
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=293
+	name="STATE_293"
+	provinces={
+		392 607 831 954 1167 2103 3743 3756 3819 6331 6350 6411 6413 6453 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = GRK
+}
+
+}

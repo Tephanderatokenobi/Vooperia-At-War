@@ -1,0 +1,13 @@
+state={
+	id=263
+	name="STATE_263"
+	provinces={
+		532 794 1219 1282 1512 2064 2142 2329 3280 3681 4175 4426 6113 6158 6194 6229 6235 6333 6356 6358 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VME
+}
+
+}
