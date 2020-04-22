@@ -1,0 +1,28 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = democracy
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democracy = 57
+	feudalism = 5
+	corporatism = 22
+	anarchosyndicalism = 2
+	communism = 3
+	authoritarianism = 1
+	ecocommunalism = 10
+}
+#create_country_leader = {
+#	name = "SpikeViper"
+#	desc = "SPIKEVIPER_DESC"
+#	picture = "Portrait_SpikeViper.dds"
+#	expire = "1965.1.1"
+#	ideology = constitutional_monarchy
+#	traits = {
+#		#
+#	}
+#}
