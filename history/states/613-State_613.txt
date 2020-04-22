@@ -1,0 +1,13 @@
+state={
+	id=613
+	name="STATE_613"
+	provinces={
+		1686 2903 5036 7923 7927 7928 7930 7931 7932 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = KOM
+}
+
+}
