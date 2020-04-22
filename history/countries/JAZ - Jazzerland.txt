@@ -1,0 +1,28 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = anarchosyndicalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democracy = 0
+	feudalism = 0
+	corporatism = 0
+	anarchosyndicalism = 100
+	communism = 0
+	authoritarianism = 0
+	ecocommunalism = 0
+}
+create_country_leader = {
+	name = "Jazzer"
+	desc = "JAZZER_DESC"
+	picture = "Portrait_Jazzer.dds"
+	expire = "1965.1.1"
+	ideology = syndicalist
+	traits = {
+		#
+	}
+}
