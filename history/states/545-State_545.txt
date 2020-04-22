@@ -1,0 +1,13 @@
+state={
+	id=545
+	name="STATE_545"
+	provinces={
+		277 1117 2697 3010 3898 3974 4118 7545 7558 7594 7599 7610 7621 7625 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = PUG
+}
+
+}

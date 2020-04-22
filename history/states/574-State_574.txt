@@ -1,0 +1,13 @@
+state={
+	id=574
+	name="STATE_574"
+	provinces={
+		1630 1891 1897 2160 2687 3668 3895 4105 4632 7673 7681 7721 7727 7739 7757 7766 7774 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = KOM
+}
+
+}

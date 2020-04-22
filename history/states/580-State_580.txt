@@ -1,0 +1,13 @@
+state={
+	id=580
+	name="STATE_580"
+	provinces={
+		144 603 625 993 1164 2431 2435 3472 4092 7724 7725 7726 7751 7765 7768 7777 7795 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NER
+}
+
+}

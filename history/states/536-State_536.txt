@@ -1,0 +1,13 @@
+state={
+	id=536
+	name="STATE_536"
+	provinces={
+		104 1694 1726 1775 1778 2079 2246 2989 3129 3856 4067 4393 7490 7540 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NER
+}
+
+}

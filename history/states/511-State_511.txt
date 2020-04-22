@@ -1,0 +1,13 @@
+state={
+	id=511
+	name="STATE_511"
+	provinces={
+		604 926 1770 1868 2545 3159 3711 4552 4886 4898 5011 7357 7411 7415 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = CFT
+}
+
+}

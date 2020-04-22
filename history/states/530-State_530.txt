@@ -1,0 +1,13 @@
+state={
+	id=530
+	name="STATE_530"
+	provinces={
+		7477 7515 7518 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = YAM
+}
+
+}

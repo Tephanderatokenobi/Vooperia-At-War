@@ -1,0 +1,13 @@
+state={
+	id=559
+	name="STATE_559"
+	provinces={
+		192 1959 3361 3842 7620 7628 7633 7650 7671 7675 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = SBA
+}
+
+}

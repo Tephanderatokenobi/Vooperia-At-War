@@ -1,0 +1,13 @@
+state={
+	id=588
+	name="STATE_588"
+	provinces={
+		718 863 1112 1205 1287 2787 3304 3770 4728 4979 7782 7804 7819 7828 7829 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = KOM
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=582
+	name="STATE_582"
+	provinces={
+		1018 1809 1866 2457 4516 4549 4772 7754 7798 7817 7831 7844 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = PTP
+}
+
+}

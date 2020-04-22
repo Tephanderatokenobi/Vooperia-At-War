@@ -1,0 +1,13 @@
+state={
+	id=555
+	name="STATE_555"
+	provinces={
+		552 1260 2178 2380 2580 3466 3796 3810 4002 7581 7604 7640 7642 7667 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = DAR
+}
+
+}

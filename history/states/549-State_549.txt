@@ -1,0 +1,13 @@
+state={
+	id=549
+	name="STATE_549"
+	provinces={
+		278 2136 3824 4382 7583 7622 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = VOP
+}
+
+}

@@ -1,0 +1,13 @@
+state={
+	id=508
+	name="STATE_508"
+	provinces={
+		1153 1259 1369 3507 3545 3706 3815 4229 5032 7424 7482 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+history={
+owner = NTH
+}
+
+}
